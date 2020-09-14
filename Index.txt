@@ -1,0 +1,6 @@
+## Index of source code examples:
+
+\Extract Text From Areas
+\Recognize Text From Document
+\Save OCR Objects As JSON
+\Use Text Auto Corrections
